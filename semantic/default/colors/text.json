@@ -1,0 +1,98 @@
+{
+  "color-text-dark": {
+    "color-text-dark-max": {
+      "value": "{black.black-100}",
+      "type": "color"
+    },
+    "color-text-dark-primary": {
+      "value": "{black.black-100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.75",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "color-text-dark-secondary": {
+      "value": "{black.black-100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.65",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "color-text-dark-tertiary": {
+      "value": "{black.black-100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.55",
+            "space": "lch"
+          }
+        }
+      }
+    }
+  },
+  "color-text-light": {
+    "color-text-light-max": {
+      "value": "{white.white-100}",
+      "type": "color"
+    },
+    "color-text-light-primary": {
+      "value": "{white.white-100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.75",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "color-text-light-secondary": {
+      "value": "{white.white-100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.65",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "color-text-light-tertiary": {
+      "value": "{white.white-100}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.55",
+            "space": "lch"
+          }
+        }
+      }
+    }
+  },
+  "color-text-accent": {
+    "color-text-accent": {
+      "value": "{deep-sky.deep-sky-125}",
+      "type": "color"
+    }
+  }
+}

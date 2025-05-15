@@ -1,0 +1,6 @@
+{
+  "text-area-height-min": {
+    "value": "{size-80}",
+    "type": "sizing"
+  }
+}

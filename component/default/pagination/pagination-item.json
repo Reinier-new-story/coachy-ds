@@ -1,0 +1,91 @@
+{
+  "pagination-item-label-font": {
+    "value": "{text-base}",
+    "type": "typography"
+  },
+  "pagination-item-label-font-active": {
+    "value": "{text-base}",
+    "type": "typography"
+  },
+  "pagination-item-padding-x": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "pagination-item-padding-y": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "pagination-item-gap": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "pagination-item-border-radius": {
+    "value": "{border-radius-base}",
+    "type": "borderRadius"
+  },
+  "pagination-item-color-text": {
+    "value": "{color-text-dark.color-text-dark-primary}",
+    "type": "color"
+  },
+  "pagination-item-color-text-hover": {
+    "value": "{color-text-dark.color-text-dark-max}",
+    "type": "color"
+  },
+  "pagination-item-color-text-active": {
+    "value": "{color-text-light.color-text-light-max}",
+    "type": "color"
+  },
+  "pagination-item-color-icon": {
+    "value": "{color-text-dark.color-text-dark-primary}",
+    "type": "color"
+  },
+  "pagination-item-color-icon-hover": {
+    "value": "{color-text-dark.color-text-dark-max}",
+    "type": "color"
+  },
+  "pagination-item-color-icon-active": {
+    "value": "{color-text-light.color-text-light-max}",
+    "type": "color"
+  },
+  "pagination-item-color-background": {
+    "value": "tranparent",
+    "type": "color"
+  },
+  "pagination-item-color-background-hover": {
+    "value": "{color-ui-25}",
+    "type": "color"
+  },
+  "pagination-item-color-background-active": {
+    "value": "{color-primary.color-primary-100}",
+    "type": "color"
+  },
+  "pagination-item-disabled-opacity": {
+    "value": "{opacity-disabled}",
+    "type": "opacity"
+  },
+  "pagination-item-min-heigth": {
+    "value": "{size-48}",
+    "type": "sizing"
+  },
+  "pagination-item-border": {
+    "value": {
+      "color": "{color-ui-50}",
+      "width": "{border-width-1}"
+    },
+    "type": "border"
+  },
+  "pagination-item-border-hover": {
+    "value": {
+      "color": "{color-ui-75}",
+      "width": "{border-width-1}"
+    },
+    "type": "border"
+  },
+  "pagination-item-border-active": {
+    "value": {
+      "color": "{color-primary.color-primary-100}",
+      "width": "{border-width-1}"
+    },
+    "type": "border"
+  }
+}

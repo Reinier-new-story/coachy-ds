@@ -1,0 +1,90 @@
+{
+  "checkbox-text-base": {
+    "value": "{text-base}",
+    "type": "typography"
+  },
+  "checkbox-text-sm": {
+    "value": "{text-sm}",
+    "type": "typography"
+  },
+  "checkbox-label-padding-y-base": {
+    "value": "{spacing-0}",
+    "type": "spacing"
+  },
+  "checkbox-label-padding-y-sm": {
+    "value": "{spacing-0}",
+    "type": "spacing"
+  },
+  "checkbox-gap-base": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "checkbox-gap-sm": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "checkbox-icon-padding-y-base": {
+    "value": "{spacing-1}",
+    "type": "spacing"
+  },
+  "checkbox-icon-padding-y-sm": {
+    "value": "{spacing-0}",
+    "type": "spacing"
+  },
+  "checkbox-color-text": {
+    "value": "{color-text-dark.color-text-dark-primary}",
+    "type": "color"
+  },
+  "checkbox-icon-color": {
+    "value": "{color-secondary.color-secondary-100}",
+    "type": "color"
+  },
+  "checkbox-icon-color-hover": {
+    "value": "{color-secondary.color-secondary-125}",
+    "type": "color"
+  },
+  "checkbox-icon-color-active": {
+    "value": "{color-secondary.color-secondary-150}",
+    "type": "color"
+  },
+  "checkbox-icon-color-selected": {
+    "value": "{color-primary.color-primary-100}",
+    "type": "color"
+  },
+  "checkbox-icon-color-selected-hover": {
+    "value": "{color-primary.color-primary-125}",
+    "type": "color"
+  },
+  "checkbox-icon-color-selected-active": {
+    "value": "{color-primary.color-primary-150}",
+    "type": "color"
+  },
+  "checkbox-icon-color-undeterminate": {
+    "value": "{color-primary.color-primary-100}",
+    "type": "color"
+  },
+  "checkbox-icon-color-undeterminate-hover": {
+    "value": "{color-primary.color-primary-125}",
+    "type": "color"
+  },
+  "checkbox-icon-color-undeterminate-active": {
+    "value": "{color-primary.color-primary-150}",
+    "type": "color"
+  },
+  "checkbox-state-circle-color-background-hover": {
+    "value": "{color-primary.color-primary-25}",
+    "type": "color"
+  },
+  "checkbox-state-circle-color-background-active": {
+    "value": "{color-primary.color-primary-50}",
+    "type": "color"
+  },
+  "checkbox-opacity-disabled": {
+    "value": "{opacity-disabled}",
+    "type": "opacity"
+  },
+  "checkbox-group-gap": {
+    "value": "{spacing-4}",
+    "type": "spacing"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "grid-sm-cols": {
+    "value": "4",
+    "type": "number",
+    "description": "number of columns"
+  },
+  "grid-md-cols": {
+    "value": "12",
+    "type": "number",
+    "description": "number of columns"
+  },
+  "grid-lg-cols": {
+    "value": "12",
+    "type": "number",
+    "description": "number of columns"
+  },
+  "grid-xl-cols": {
+    "value": "12",
+    "type": "number",
+    "description": "number of columns"
+  },
+  "grid-sm-margin": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "grid-md-margin": {
+    "value": "{spacing-24}",
+    "type": "spacing"
+  },
+  "grid-lg-margin": {
+    "value": "{spacing-32}",
+    "type": "spacing"
+  },
+  "grid-xl-margin": {
+    "value": "{spacing-40}",
+    "type": "spacing"
+  },
+  "grid-sm-gap": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "grid-md-gap": {
+    "value": "{spacing-24}",
+    "type": "spacing"
+  },
+  "grid-lg-gap": {
+    "value": "{spacing-32}",
+    "type": "spacing"
+  },
+  "grid-xl-gap": {
+    "value": "{spacing-40}",
+    "type": "spacing"
+  },
+  "grid-sm-width-min": {
+    "value": "377px",
+    "type": "dimension",
+    "description": "min width for grid sm"
+  },
+  "grid-md-width-min": {
+    "value": "768px",
+    "type": "dimension",
+    "description": "min width for grid md"
+  },
+  "grid-lg-width-min": {
+    "value": "1024px",
+    "type": "dimension",
+    "description": "min width for grid lg"
+  },
+  "grid-xl-width-min": {
+    "value": "1280px",
+    "type": "dimension",
+    "description": "min width for grid xl"
+  },
+  "grid-sm-width-max": {
+    "value": "767px",
+    "type": "dimension",
+    "description": "max width for grid sm"
+  },
+  "grid-md-width-max": {
+    "value": "1023px",
+    "type": "dimension",
+    "description": "max width for grid md"
+  },
+  "grid-lg-width-max": {
+    "value": "1279px",
+    "type": "dimension",
+    "description": "max width for grid lg"
+  },
+  "grid-xl-width-max": {
+    "value": "1440px",
+    "type": "dimension",
+    "description": "max width for grid xl"
+  }
+}

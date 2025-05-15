@@ -1,0 +1,172 @@
+{
+  "color-success": {
+    "color-success": {
+      "value": "{brazilianite.brazilianite-100}",
+      "type": "color"
+    },
+    "color-success-25": {
+      "value": "{brazilianite.brazilianite-25}",
+      "type": "color"
+    },
+    "color-success-50": {
+      "value": "{brazilianite.brazilianite-50}",
+      "type": "color"
+    },
+    "color-success-75": {
+      "value": "{brazilianite.brazilianite-75}",
+      "type": "color"
+    },
+    "color-success-100": {
+      "value": "{brazilianite.brazilianite-100}",
+      "type": "color"
+    },
+    "color-success-125": {
+      "value": "{brazilianite.brazilianite-125}",
+      "type": "color"
+    },
+    "color-success-150": {
+      "value": "{brazilianite.brazilianite-150}",
+      "type": "color"
+    },
+    "color-success-175": {
+      "value": "{brazilianite.brazilianite-175}",
+      "type": "color"
+    }
+  },
+  "color-error": {
+    "color-error": {
+      "value": "{halloween.halloween-100}",
+      "type": "color"
+    },
+    "color-error-25": {
+      "value": "{halloween.halloween-25}",
+      "type": "color"
+    },
+    "color-error-50": {
+      "value": "{halloween.halloween-50}",
+      "type": "color"
+    },
+    "color-error-75": {
+      "value": "{halloween.halloween-75}",
+      "type": "color"
+    },
+    "color-error-100": {
+      "value": "{halloween.halloween-100}",
+      "type": "color"
+    },
+    "color-error-125": {
+      "value": "{halloween.halloween-125}",
+      "type": "color"
+    },
+    "color-error-150": {
+      "value": "{halloween.halloween-150}",
+      "type": "color"
+    },
+    "color-error-175": {
+      "value": "{halloween.halloween-175}",
+      "type": "color"
+    }
+  },
+  "color-warning": {
+    "color-warning": {
+      "value": "{golden.golden-100}",
+      "type": "color"
+    },
+    "color-warning-25": {
+      "value": "{golden.golden-25}",
+      "type": "color"
+    },
+    "color-warning-50": {
+      "value": "{golden.golden-50}",
+      "type": "color"
+    },
+    "color-warning-75": {
+      "value": "{golden.golden-75}",
+      "type": "color"
+    },
+    "color-warning-100": {
+      "value": "{golden.golden-100}",
+      "type": "color"
+    },
+    "color-warning-125": {
+      "value": "{golden.golden-125}",
+      "type": "color"
+    },
+    "color-warning-150": {
+      "value": "{golden.golden-150}",
+      "type": "color"
+    },
+    "color-warning-175": {
+      "value": "{golden.golden-175}",
+      "type": "color"
+    }
+  },
+  "color-info": {
+    "color-info": {
+      "value": "{wizard-blue.wizard-blue-100}",
+      "type": "color"
+    },
+    "color-info-25": {
+      "value": "{wizard-blue.wizard-blue-25}",
+      "type": "color"
+    },
+    "color-info-50": {
+      "value": "{wizard-blue.wizard-blue-50}",
+      "type": "color"
+    },
+    "color-info-75": {
+      "value": "{wizard-blue.wizard-blue-75}",
+      "type": "color"
+    },
+    "color-info-100": {
+      "value": "{wizard-blue.wizard-blue-100}",
+      "type": "color"
+    },
+    "color-info-125": {
+      "value": "{wizard-blue.wizard-blue-125}",
+      "type": "color"
+    },
+    "color-info-150": {
+      "value": "{wizard-blue.wizard-blue-150}",
+      "type": "color"
+    },
+    "color-info-175": {
+      "value": "{wizard-blue.wizard-blue-175}",
+      "type": "color"
+    }
+  },
+  "color-select": {
+    "color-select": {
+      "value": "{deep-sky.deep-sky-100}",
+      "type": "color"
+    },
+    "color-select-25": {
+      "value": "{deep-sky.deep-sky-25}",
+      "type": "color"
+    },
+    "color-select-50": {
+      "value": "{deep-sky.deep-sky-50}",
+      "type": "color"
+    },
+    "color-select-75": {
+      "value": "{deep-sky.deep-sky-75}",
+      "type": "color"
+    },
+    "color-select-100": {
+      "value": "{deep-sky.deep-sky-100}",
+      "type": "color"
+    },
+    "color-select-125": {
+      "value": "{deep-sky.deep-sky-125}",
+      "type": "color"
+    },
+    "color-select-150": {
+      "value": "{deep-sky.deep-sky-150}",
+      "type": "color"
+    },
+    "color-select-175": {
+      "value": "{deep-sky.deep-sky-175}",
+      "type": "color"
+    }
+  }
+}

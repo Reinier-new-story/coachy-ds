@@ -1,0 +1,78 @@
+{
+  "icon-box-size-icon-8": {
+    "value": "{size-icon-8}",
+    "type": "sizing"
+  },
+  "icon-box-size-icon-12": {
+    "value": "{size-icon-12}",
+    "type": "sizing"
+  },
+  "icon-box-size-icon-16": {
+    "value": "{size-icon-16}",
+    "type": "sizing"
+  },
+  "icon-box-size-icon-20": {
+    "value": "{size-icon-20}",
+    "type": "sizing"
+  },
+  "icon-box-size-icon-24": {
+    "value": "{size-icon-24}",
+    "type": "sizing"
+  },
+  "icon-box-size-icon-32": {
+    "value": "{size-icon-32}",
+    "type": "sizing"
+  },
+  "icon-box-size-icon-48": {
+    "value": "{size-icon-48}",
+    "type": "sizing"
+  },
+  "icon-box-size-icon-64": {
+    "value": "{size-icon-64}",
+    "type": "sizing"
+  },
+  "icon-box-size-icon-80": {
+    "value": "{size-icon-80}",
+    "type": "sizing"
+  },
+  "icon-box-padding-none": {
+    "value": "{spacing-0}",
+    "type": "spacing"
+  },
+  "icon-box-padding-2": {
+    "value": "{spacing-2}",
+    "type": "spacing"
+  },
+  "icon-box-padding-4": {
+    "value": "{spacing-4}",
+    "type": "spacing"
+  },
+  "icon-box-padding-8": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "icon-box-padding-12": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "icon-box-padding-16": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "icon-box-padding-20": {
+    "value": "{spacing-20}",
+    "type": "spacing"
+  },
+  "icon-box-padding-24": {
+    "value": "{spacing-24}",
+    "type": "spacing"
+  },
+  "icon-box-border-radius-none": {
+    "value": "{border-radius-none}",
+    "type": "borderRadius"
+  },
+  "icon-box-border-radius-full": {
+    "value": "{border-radius-full}",
+    "type": "borderRadius"
+  }
+}

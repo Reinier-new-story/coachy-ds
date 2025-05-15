@@ -1,0 +1,46 @@
+{
+  "overlay-color-background": {
+    "value": "{base-color-black-opacity-45}",
+    "type": "color"
+  },
+  "overlay-xl-padding": {
+    "value": "{spacing-40}",
+    "type": "spacing"
+  },
+  "overlay-lg-padding": {
+    "value": "{spacing-40}",
+    "type": "spacing"
+  },
+  "overlay-md-padding": {
+    "value": "{spacing-24}",
+    "type": "spacing"
+  },
+  "overlay-sm-padding": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "overlay-sheet-md-width-min": {
+    "value": "256px",
+    "type": "dimension"
+  },
+  "overlay-sheet-md-width-max": {
+    "value": "341px",
+    "type": "dimension"
+  },
+  "overlay-sheet-lg-width-max": {
+    "value": "426px",
+    "type": "dimension"
+  },
+  "overlay-sheet-lg-width-min": {
+    "value": "342px",
+    "type": "dimension"
+  },
+  "overlay-sheet-xl-width-min": {
+    "value": "427px",
+    "type": "dimension"
+  },
+  "overlay-sheet-xl-width-max": {
+    "value": "480px",
+    "type": "dimension"
+  }
+}

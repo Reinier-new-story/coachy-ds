@@ -1,0 +1,14 @@
+{
+  "recaptcha-padding": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "recaptcha-border-radius": {
+    "value": "{border-radius-base}",
+    "type": "borderRadius"
+  },
+  "recaptcha-color-background": {
+    "value": "{color-ui-50}",
+    "type": "color"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "elevation-none": {
+    "value": {
+      "boxShadow": "{shadow-none}"
+    },
+    "type": "composition"
+  },
+  "elevation-1": {
+    "value": {
+      "boxShadow": "{shadow-sm}"
+    },
+    "type": "composition"
+  },
+  "elevation-2": {
+    "value": {
+      "boxShadow": "{shadow-md}"
+    },
+    "type": "composition"
+  },
+  "elevation-3": {
+    "value": {
+      "boxShadow": "{shadow-lg}"
+    },
+    "type": "composition"
+  }
+}

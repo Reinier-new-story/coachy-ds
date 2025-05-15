@@ -1,0 +1,102 @@
+{
+  "table-toolbar-color-background": {
+    "value": "{color-ui-50}",
+    "type": "color"
+  },
+  "table-toolbar-spaced=color-background": {
+    "value": "{color-ui-100}",
+    "type": "color"
+  },
+  "table-toolbar-label-color-background": {
+    "value": "{color-ui-50}",
+    "type": "color"
+  },
+  "table-toolbar-button-color-background": {
+    "value": "{color-ui-50}",
+    "type": "color"
+  },
+  "table-toolbar-button-color-background-hover": {
+    "value": "{color-ui-75}",
+    "type": "color"
+  },
+  "table-toolbar-button-color-background-active": {
+    "value": "{color-ui-75}",
+    "type": "color"
+  },
+  "table-toolbar-button-primary-color-background": {
+    "value": "{color-primary.color-primary-100}",
+    "type": "color"
+  },
+  "table-toolbar-button-primary-color-background-hover": {
+    "value": "{color-primary.color-primary-125}",
+    "type": "color"
+  },
+  "table-toolbar-button-primary-color-background-active": {
+    "value": "{color-primary.color-primary-125}",
+    "type": "color"
+  },
+  "table-toolbar-dropdown-color-background": {
+    "value": "{color-ui-50}",
+    "type": "color"
+  },
+  "table-toolbar-dropdown-color-background-hover": {
+    "value": "{color-ui-75}",
+    "type": "color"
+  },
+  "table-toolbar-dropdown-color-background-active": {
+    "value": "{color-ui-75}",
+    "type": "color"
+  },
+  "table-toolbar-label-color-text": {
+    "value": "{color-text-dark.color-text-dark-primary}",
+    "type": "color"
+  },
+  "table-toolbar-description-color-text": {
+    "value": "{color-text-dark.color-text-dark-secondary}",
+    "type": "color"
+  },
+  "table-toolbar-button-color-icon": {
+    "value": "{color-text-dark.color-text-dark-primary}",
+    "type": "color"
+  },
+  "table-toolbar-button-color-text": {
+    "value": "{color-text-dark.color-text-dark-primary}",
+    "type": "color"
+  },
+  "table-toolbar-button-primary-color-text": {
+    "value": "{color-text-light.color-text-light-max}",
+    "type": "color"
+  },
+  "table-toolbar-button-primary-color-icon": {
+    "value": "{color-text-light.color-text-light-max}",
+    "type": "color"
+  },
+  "table-toolbar-dropdown-color-icon": {
+    "value": "{color-text-dark.color-text-dark-primary}",
+    "type": "color"
+  },
+  "table-toolbar-dropdown-color-text": {
+    "value": "{color-text-dark.color-text-dark-primary}",
+    "type": "color"
+  },
+  "table-toolbar-description-color-background": {
+    "value": "{color-ui-50}",
+    "type": "color"
+  },
+  "table-toolbar-gap": {
+    "value": "{spacing-1}",
+    "type": "spacing"
+  },
+  "table-toolbar-button-disabled": {
+    "value": "{opacity-disabled}",
+    "type": "opacity"
+  },
+  "table-toolbar-dropdown-disabled": {
+    "value": "{opacity-disabled}",
+    "type": "opacity"
+  },
+  "table-toolbar-padding-bottom": {
+    "value": "{spacing-1}",
+    "type": "spacing"
+  }
+}

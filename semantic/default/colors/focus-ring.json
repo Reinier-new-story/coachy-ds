@@ -1,0 +1,10 @@
+{
+  "focus-ring-color-border-on-dark": {
+    "value": "{white.white-100}",
+    "type": "color"
+  },
+  "focus-ring-color-border-on-light": {
+    "value": "{base-color-black}",
+    "type": "color"
+  }
+}

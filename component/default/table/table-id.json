@@ -1,0 +1,46 @@
+{
+  "table-id-header-padding-x": {
+    "value": "{spacing-24}",
+    "type": "spacing"
+  },
+  "table-id-header-padding-y": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "table-id-font-title": {
+    "value": "{heading-large}",
+    "type": "typography"
+  },
+  "table-id-font-description": {
+    "value": "{text-base}",
+    "type": "typography"
+  },
+  "table-id-title-color-text": {
+    "value": "{color-text-dark.color-text-dark-primary}",
+    "type": "color"
+  },
+  "table-id-description-color-text": {
+    "value": "{color-text-dark.color-text-dark-tertiary}",
+    "type": "color"
+  },
+  "table-id-color-icon": {
+    "value": "{color-text-dark.color-text-dark-primary}",
+    "type": "color"
+  },
+  "table-id-color-background": {
+    "value": "{color-ui-50}",
+    "type": "color"
+  },
+  "table-id-header-gap": {
+    "value": "{spacing-2}",
+    "type": "spacing"
+  },
+  "table-id-title-gap": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "table-id-border-bottom": {
+    "value": "{table-border}",
+    "type": "border"
+  }
+}

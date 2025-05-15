@@ -1,0 +1,60 @@
+{
+  "table-header-border": {
+    "value": "{table-border}",
+    "type": "border"
+  },
+  "table-header-font-label": {
+    "value": {
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-bold}",
+      "fontSize": "{font-size-base}",
+      "lineHeight": "{font-leading-none}",
+      "letterSpacing": "{font-tracking-normal}"
+    },
+    "type": "typography"
+  },
+  "table-header-padding-x": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "table-header-padding-y": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "table-header-padding-x-tight": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "table-header-padding-y-tight": {
+    "value": "{spacing-0}",
+    "type": "spacing"
+  },
+  "table-header-padding-x-loose": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "table-header-padding-y-loose": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "table-header-color-background": {
+    "value": "{color-ui-75}",
+    "type": "color"
+  },
+  "table-header-color-background-hover": {
+    "value": "{color-ui-100}",
+    "type": "color"
+  },
+  "table-header-content-height-min": {
+    "value": "40px",
+    "type": "dimension"
+  },
+  "table-header-content-width-min": {
+    "value": "40px",
+    "type": "dimension"
+  },
+  "table-header-color-text": {
+    "value": "{color-text-dark.color-text-dark-secondary}",
+    "type": "color"
+  }
+}

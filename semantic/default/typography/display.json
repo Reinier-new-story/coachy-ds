@@ -1,0 +1,81 @@
+{
+  "display-xs": {
+    "value": {
+      "fontFamily": "{font-family-display}",
+      "fontWeight": "{font-weight-regular}",
+      "lineHeight": "{font-leading-tight}",
+      "fontSize": "{font-size-3xl}",
+      "letterSpacing": "{font-tracking-normal}"
+    },
+    "type": "typography"
+  },
+  "display-sm": {
+    "value": {
+      "fontFamily": "{font-family-display}",
+      "fontWeight": "{font-weight-regular}",
+      "lineHeight": "{font-leading-tight}",
+      "fontSize": "{font-size-4xl}",
+      "letterSpacing": "{font-tracking-normal}"
+    },
+    "type": "typography"
+  },
+  "display-base": {
+    "value": {
+      "fontFamily": "{font-family-display}",
+      "fontWeight": "{font-weight-regular}",
+      "lineHeight": "{font-leading-none}",
+      "fontSize": "{font-size-7xl}",
+      "letterSpacing": "{font-tracking-normal}"
+    },
+    "type": "typography"
+  },
+  "display-lg": {
+    "value": {
+      "fontFamily": "{font-family-display}",
+      "fontWeight": "{font-weight-regular}",
+      "lineHeight": "{font-leading-none}",
+      "fontSize": "{font-size-8xl}",
+      "letterSpacing": "{font-tracking-normal}"
+    },
+    "type": "typography"
+  },
+  "display-emphasized-xs": {
+    "value": {
+      "fontFamily": "{font-family-display}",
+      "fontWeight": "{font-weight-bold}",
+      "lineHeight": "{font-leading-tight}",
+      "fontSize": "{font-size-3xl}",
+      "letterSpacing": "{font-tracking-normal}"
+    },
+    "type": "typography"
+  },
+  "display-emphasized-sm": {
+    "value": {
+      "fontFamily": "{font-family-display}",
+      "fontWeight": "{font-weight-bold}",
+      "lineHeight": "{font-leading-snug}",
+      "fontSize": "{font-size-4xl}",
+      "letterSpacing": "{font-tracking-normal}"
+    },
+    "type": "typography"
+  },
+  "display-emphasized-base": {
+    "value": {
+      "fontFamily": "{font-family-display}",
+      "fontWeight": "{font-weight-bold}",
+      "lineHeight": "{font-leading-none}",
+      "fontSize": "{font-size-7xl}",
+      "letterSpacing": "{font-tracking-normal}"
+    },
+    "type": "typography"
+  },
+  "display-emphasized-lg": {
+    "value": {
+      "fontFamily": "{font-family-display}",
+      "fontWeight": "{font-weight-bold}",
+      "lineHeight": "{font-leading-none}",
+      "fontSize": "{font-size-8xl}"
+    },
+    "type": "typography"
+  }
+}

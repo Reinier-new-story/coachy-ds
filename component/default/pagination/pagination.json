@@ -1,0 +1,18 @@
+{
+  "pagination-numbers-gap": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "pagination-gap": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "pagination-text": {
+    "value": "{text-base}",
+    "type": "typography"
+  },
+  "pagination-color-text": {
+    "value": "{color-text-dark.color-text-dark-tertiary}",
+    "type": "color"
+  }
+}

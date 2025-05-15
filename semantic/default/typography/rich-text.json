@@ -1,0 +1,84 @@
+{
+  "rich-text-p": {
+    "value": {
+      "fontFamily": "{font-family-default}",
+      "fontWeight": "{font-weight-regular}",
+      "lineHeight": "{font-leading-tight}",
+      "fontSize": "{font-size-base}"
+    },
+    "type": "typography"
+  },
+  "rich-text-a": {
+    "value": {
+      "fontFamily": "{font-family-default}",
+      "fontWeight": "{font-weight-regular}",
+      "lineHeight": "{font-leading-tight}",
+      "fontSize": "{font-size-base}",
+      "textDecoration": "{font-textdecoration-underline}"
+    },
+    "type": "typography"
+  },
+  "rich-text-blockquote": {
+    "value": {
+      "fontFamily": "{font-family-default}",
+      "fontWeight": "{font-weight-italic}",
+      "lineHeight": "{font-leading-tight}",
+      "fontSize": "{font-size-lg}"
+    },
+    "type": "typography"
+  },
+  "rich-text-h1": {
+    "value": {
+      "fontFamily": "{font-family-heading}",
+      "fontWeight": "{font-weight-bold}",
+      "lineHeight": "{font-leading-tight}",
+      "fontSize": "{font-size-5xl}"
+    },
+    "type": "typography"
+  },
+  "rich-text-h2": {
+    "value": {
+      "fontFamily": "{font-family-heading}",
+      "fontWeight": "{font-weight-bold}",
+      "lineHeight": "{font-leading-tight}",
+      "fontSize": "{font-size-4xl}"
+    },
+    "type": "typography"
+  },
+  "rich-text-h3": {
+    "value": {
+      "fontFamily": "{font-family-heading}",
+      "fontWeight": "{font-weight-bold}",
+      "lineHeight": "{font-leading-tight}",
+      "fontSize": "{font-size-3xl}"
+    },
+    "type": "typography"
+  },
+  "rich-text-h4": {
+    "value": {
+      "fontFamily": "{font-family-heading}",
+      "fontWeight": "{font-weight-bold}",
+      "lineHeight": "{font-leading-tight}",
+      "fontSize": "{font-size-2xl}"
+    },
+    "type": "typography"
+  },
+  "rich-text-h5": {
+    "value": {
+      "fontFamily": "{font-family-heading}",
+      "fontWeight": "{font-weight-bold}",
+      "lineHeight": "{font-leading-tight}",
+      "fontSize": "{font-size-xl}"
+    },
+    "type": "typography"
+  },
+  "rich-text-h6": {
+    "value": {
+      "fontFamily": "{font-family-heading}",
+      "fontWeight": "{font-weight-bold}",
+      "lineHeight": "{font-leading-tight}",
+      "fontSize": "{font-size-lg}"
+    },
+    "type": "typography"
+  }
+}

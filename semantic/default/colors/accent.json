@@ -1,0 +1,32 @@
+{
+  "color-accent": {
+    "color-accent-25": {
+      "value": "{pumpkin.pumpkin-25}",
+      "type": "color"
+    },
+    "color-accent-50": {
+      "value": "{pumpkin.pumpkin-50}",
+      "type": "color"
+    },
+    "color-accent-75": {
+      "value": "{pumpkin.pumpkin-75}",
+      "type": "color"
+    },
+    "color-accent-100": {
+      "value": "{pumpkin.pumpkin-100}",
+      "type": "color"
+    },
+    "color-accent-125": {
+      "value": "{pumpkin.pumpkin-125}",
+      "type": "color"
+    },
+    "color-accent-150": {
+      "value": "{pumpkin.pumpkin-150}",
+      "type": "color"
+    },
+    "color-accent-175": {
+      "value": "{pumpkin.pumpkin-175}",
+      "type": "color"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "section-sm-padding-x": {
+    "value": "{grid-sm-margin}",
+    "type": "spacing"
+  },
+  "section-md-padding-x": {
+    "value": "{grid-md-margin}",
+    "type": "spacing"
+  },
+  "section-lg-padding-x": {
+    "value": "{grid-lg-margin}",
+    "type": "spacing"
+  },
+  "section-xl-padding-x": {
+    "value": "{grid-xl-margin}",
+    "type": "spacing"
+  },
+  "section-sm-padding-y": {
+    "value": "{grid-sm-margin} * 2",
+    "type": "spacing"
+  },
+  "section-md-padding-y": {
+    "value": "{grid-md-margin} * 2",
+    "type": "spacing"
+  },
+  "section-lg-padding-y": {
+    "value": "{grid-lg-margin} * 2",
+    "type": "spacing"
+  },
+  "section-xl-padding-y": {
+    "value": "{grid-xl-margin} * 2",
+    "type": "spacing"
+  },
+  "section-sm-gap": {
+    "value": "{grid-sm-gap}",
+    "type": "spacing"
+  },
+  "section-md-gap": {
+    "value": "{grid-md-gap}",
+    "type": "spacing"
+  },
+  "section-lg-gap": {
+    "value": "{grid-lg-gap}",
+    "type": "spacing"
+  },
+  "section-xl-gap": {
+    "value": "{grid-xl-gap}",
+    "type": "spacing"
+  },
+  "section-sm-gap-tight": {
+    "value": "{grid-sm-gap} / 2",
+    "type": "spacing"
+  },
+  "section-md-gap-tight": {
+    "value": "{grid-md-gap} / 2",
+    "type": "spacing"
+  },
+  "section-lg-gap-tight": {
+    "value": "{grid-lg-gap} / 2",
+    "type": "spacing"
+  },
+  "section-xl-gap-tight": {
+    "value": "{grid-xl-gap} / 2",
+    "type": "spacing"
+  },
+  "section-sm-gap-loose": {
+    "value": "{grid-sm-gap} * 2",
+    "type": "spacing"
+  },
+  "section-md-gap-loose": {
+    "value": "{grid-md-gap} * 2",
+    "type": "spacing"
+  },
+  "section-lg-gap-loose": {
+    "value": "{grid-lg-gap} * 2",
+    "type": "spacing"
+  },
+  "section-xl-gap-loose": {
+    "value": "{grid-xl-gap} * 2",
+    "type": "spacing"
+  },
+  "section-sm-width-min": {
+    "value": "{grid-sm-width-min}",
+    "type": "dimension"
+  },
+  "section-sm-width-max": {
+    "value": "{grid-sm-width-max}",
+    "type": "dimension"
+  },
+  "section-md-width-min": {
+    "value": "{grid-md-width-min}",
+    "type": "dimension"
+  },
+  "section-md-width-max": {
+    "value": "{grid-md-width-max}",
+    "type": "dimension"
+  },
+  "section-lg-width-min": {
+    "value": "{grid-lg-width-min}",
+    "type": "dimension"
+  },
+  "section-lg-width-max": {
+    "value": "{grid-lg-width-max}",
+    "type": "dimension"
+  },
+  "section-xl-width-min": {
+    "value": "{grid-xl-width-min}",
+    "type": "dimension"
+  },
+  "section-xl-width-max": {
+    "value": "{grid-xl-width-max}",
+    "type": "dimension"
+  }
+}

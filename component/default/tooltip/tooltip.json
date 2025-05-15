@@ -1,0 +1,41 @@
+{
+  "tooltip-content-padding-x": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "tooltip-content-padding-y": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "tooltip-pointer-padding-x": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "tooltip-pointer-padding-y": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "tooltip-color-background": {
+    "value": "{base-color-white}",
+    "type": "color"
+  },
+  "tooltip-border-radius": {
+    "value": "{border-radius-base}",
+    "type": "borderRadius"
+  },
+  "tooltip-border": {
+    "value": {
+      "color": "{color-ui-50}",
+      "width": "{border-width-1}"
+    },
+    "type": "border"
+  },
+  "tooltip-color-text": {
+    "value": "{color-text-dark.color-text-dark-primary}",
+    "type": "color"
+  },
+  "tooltip-font": {
+    "value": "{text-sm}",
+    "type": "typography"
+  }
+}
