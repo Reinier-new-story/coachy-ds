@@ -1,0 +1,34 @@
+{
+  "color-ui": {
+    "value": "{silver.silver-100}",
+    "type": "color"
+  },
+  "color-ui-25": {
+    "value": "{silver.silver-25}",
+    "type": "color"
+  },
+  "color-ui-50": {
+    "value": "{silver.silver-50}",
+    "type": "color"
+  },
+  "color-ui-75": {
+    "value": "{silver.silver-75}",
+    "type": "color"
+  },
+  "color-ui-100": {
+    "value": "{silver.silver-100}",
+    "type": "color"
+  },
+  "color-ui-125": {
+    "value": "{silver.silver-125}",
+    "type": "color"
+  },
+  "color-ui-150": {
+    "value": "{silver.silver-150}",
+    "type": "color"
+  },
+  "color-ui-175": {
+    "value": "{silver.silver-175}",
+    "type": "color"
+  }
+}

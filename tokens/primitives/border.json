@@ -1,0 +1,58 @@
+{
+  "border-radius-none": {
+    "value": "0",
+    "type": "borderRadius"
+  },
+  "border-radius-sm": {
+    "value": "2",
+    "type": "borderRadius"
+  },
+  "border-radius-base": {
+    "value": "4",
+    "type": "borderRadius"
+  },
+  "border-radius-md": {
+    "value": "6",
+    "type": "borderRadius"
+  },
+  "border-radius-lg": {
+    "value": "8",
+    "type": "borderRadius"
+  },
+  "border-radius-xl": {
+    "value": "12",
+    "type": "borderRadius"
+  },
+  "border-radius-2xl": {
+    "value": "16",
+    "type": "borderRadius"
+  },
+  "border-radius-3xl": {
+    "value": "24",
+    "type": "borderRadius"
+  },
+  "border-radius-full": {
+    "value": "9999",
+    "type": "borderRadius"
+  },
+  "border-width-0": {
+    "value": "0",
+    "type": "borderWidth"
+  },
+  "border-width-1": {
+    "value": "1",
+    "type": "borderWidth"
+  },
+  "border-width-2": {
+    "value": "2",
+    "type": "borderWidth"
+  },
+  "border-width-4": {
+    "value": "4",
+    "type": "borderWidth"
+  },
+  "border-width-8": {
+    "value": "8",
+    "type": "borderWidth"
+  }
+}

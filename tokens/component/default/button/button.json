@@ -1,0 +1,88 @@
+{
+  "button-opacity-disabled": {
+    "value": "{opacity-disabled}",
+    "type": "opacity"
+  },
+  "button-base-font": {
+    "value": {
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-regular}",
+      "fontSize": "{font-size-lg}",
+      "lineHeight": "{font-leading-none}"
+    },
+    "type": "typography"
+  },
+  "button-sm-font": {
+    "value": {
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-regular}",
+      "fontSize": "{font-size-base}",
+      "lineHeight": "{font-leading-none}"
+    },
+    "type": "typography"
+  },
+  "button-base-padding-right": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "button-base-padding-left": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "button-base-padding-y": {
+    "value": "{spacing-14}",
+    "type": "spacing"
+  },
+  "button-base-gap": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "button-sm-padding-right": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "button-sm-padding-left": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "button-sm-padding-y": {
+    "value": "{spacing-10}",
+    "type": "spacing"
+  },
+  "button-sm-gap": {
+    "value": "{spacing-6}",
+    "type": "spacing"
+  },
+  "button-border-radius": {
+    "value": "{avatar-border-radius-full}",
+    "type": "borderRadius"
+  },
+  "button-border-width": {
+    "value": "{border-width-0}",
+    "type": "borderWidth"
+  },
+  "button-base-heigth-min": {
+    "value": "{size-48}",
+    "type": "sizing"
+  },
+  "button-base-leading-icon-width": {
+    "value": "{size-16}",
+    "type": "sizing"
+  },
+  "button-base-trailing-icon-width": {
+    "value": "{size-16}",
+    "type": "sizing"
+  },
+  "button-sm-heigth-min": {
+    "value": "{size-40}",
+    "type": "sizing"
+  },
+  "button-sm-leading-icon-width": {
+    "value": "{size-12}",
+    "type": "sizing"
+  },
+  "button-sm-trailing-icon-width": {
+    "value": "{size-12}",
+    "type": "sizing"
+  }
+}

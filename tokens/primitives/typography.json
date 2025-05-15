@@ -1,0 +1,182 @@
+{
+  "font-family-inter": {
+    "value": "Inter",
+    "type": "fontFamilies"
+  },
+  "font-family-nunito": {
+    "value": "Nunito",
+    "type": "fontFamilies"
+  },
+  "font-family-bowlby": {
+    "value": "Bowlby One",
+    "type": "fontFamilies"
+  },
+  "font-weight-bold": {
+    "value": "Bold",
+    "type": "fontWeights"
+  },
+  "font-weight-semi-bold": {
+    "value": "Semi Bold",
+    "type": "fontWeights"
+  },
+  "font-weight-semibold": {
+    "value": "SemiBold",
+    "type": "fontWeights"
+  },
+  "font-weight-regular": {
+    "value": "Regular",
+    "type": "fontWeights"
+  },
+  "font-weight-light": {
+    "value": "Light",
+    "type": "fontWeights"
+  },
+  "font-weight-roman": {
+    "value": "Roman",
+    "type": "fontWeights"
+  },
+  "font-weight-italic": {
+    "value": "Italic",
+    "type": "fontWeights"
+  },
+  "font-size-3xs": {
+    "value": "8",
+    "type": "fontSizes"
+  },
+  "font-size-2xs": {
+    "value": "10",
+    "type": "fontSizes"
+  },
+  "font-size-xs": {
+    "value": "12",
+    "type": "fontSizes"
+  },
+  "font-size-sm": {
+    "value": "14",
+    "type": "fontSizes"
+  },
+  "font-size-base": {
+    "value": "16",
+    "type": "fontSizes"
+  },
+  "font-size-lg": {
+    "value": "18",
+    "type": "fontSizes"
+  },
+  "font-size-xl": {
+    "value": "20",
+    "type": "fontSizes"
+  },
+  "font-size-2xl": {
+    "value": "24",
+    "type": "fontSizes"
+  },
+  "font-size-3xl": {
+    "value": "30",
+    "type": "fontSizes"
+  },
+  "font-size-4xl": {
+    "value": "36",
+    "type": "fontSizes"
+  },
+  "font-size-5xl": {
+    "value": "48",
+    "type": "fontSizes"
+  },
+  "font-size-6xl": {
+    "value": "60",
+    "type": "fontSizes"
+  },
+  "font-size-7xl": {
+    "value": "72",
+    "type": "fontSizes"
+  },
+  "font-size-8xl": {
+    "value": "96",
+    "type": "fontSizes"
+  },
+  "font-size-9xl": {
+    "value": "128",
+    "type": "fontSizes"
+  },
+  "font-leading-none": {
+    "value": "100%",
+    "type": "lineHeights"
+  },
+  "font-leading-tight": {
+    "value": "125%",
+    "type": "lineHeights"
+  },
+  "font-leading-snug": {
+    "value": "137.5%",
+    "type": "lineHeights"
+  },
+  "font-leading-normal": {
+    "value": "150%",
+    "type": "lineHeights"
+  },
+  "font-leading-relaxed": {
+    "value": "162.5%",
+    "type": "lineHeights"
+  },
+  "font-leading-loose": {
+    "value": "200%",
+    "type": "lineHeights"
+  },
+  "font-tracking-tighter": {
+    "value": "-5%",
+    "type": "letterSpacing"
+  },
+  "font-tracking-tight": {
+    "value": "-2.5%",
+    "type": "letterSpacing"
+  },
+  "font-tracking-normal": {
+    "value": "0%",
+    "type": "letterSpacing"
+  },
+  "font-tracking-wide": {
+    "value": "2.5%",
+    "type": "letterSpacing"
+  },
+  "font-tracking-wider": {
+    "value": "5%",
+    "type": "letterSpacing"
+  },
+  "font-tracking-widest": {
+    "value": "10%",
+    "type": "letterSpacing"
+  },
+  "font-textdecoration-none": {
+    "value": "none",
+    "type": "textDecoration"
+  },
+  "font-textdecoration-underline": {
+    "value": "underline",
+    "type": "textDecoration"
+  },
+  "font-textdecoration-line-through": {
+    "value": "line-through",
+    "type": "textDecoration"
+  },
+  "font-textransform-none": {
+    "value": "none",
+    "type": "textCase"
+  },
+  "font-textransform-uppercase": {
+    "value": "uppercase",
+    "type": "textCase"
+  },
+  "font-textransform-lowercase": {
+    "value": "lowercase",
+    "type": "textCase"
+  },
+  "font-textransform-capitalize": {
+    "value": "capitalize",
+    "type": "textCase"
+  },
+  "font-family-adelle": {
+    "value": "Adelle Sans",
+    "type": "fontFamilies"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "pricing-font-current-price-currency": {
+    "value": {
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-bold}",
+      "fontSize": "{font-size-2xl}",
+      "lineHeight": "{font-leading-tight}"
+    },
+    "type": "typography"
+  },
+  "pricing-font-former-price-currency": {
+    "value": {
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-bold}",
+      "fontSize": "{font-size-base}",
+      "lineHeight": "{font-leading-relaxed}"
+    },
+    "type": "typography"
+  },
+  "pricing-font-current-price-integer": {
+    "value": {
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-bold}",
+      "fontSize": "{font-size-2xl}",
+      "lineHeight": "{font-leading-tight}"
+    },
+    "type": "typography"
+  },
+  "pricing-font-former-price-integer": {
+    "value": {
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-bold}",
+      "fontSize": "{font-size-base}",
+      "lineHeight": "{font-leading-relaxed}"
+    },
+    "type": "typography"
+  },
+  "pricing-font-current-price-decimal": {
+    "value": {
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-bold}",
+      "fontSize": "{font-size-base}",
+      "lineHeight": "{font-leading-relaxed}"
+    },
+    "type": "typography"
+  },
+  "pricing-font-former-price-decimal": {
+    "value": {
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-bold}",
+      "fontSize": "{font-size-xs}",
+      "lineHeight": "{font-leading-loose}"
+    },
+    "type": "typography"
+  },
+  "pricing-font-conditions": {
+    "value": {
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-italic}",
+      "fontSize": "{font-size-sm}",
+      "lineHeight": "{font-leading-relaxed}"
+    },
+    "type": "typography"
+  },
+  "pricing-gap": {
+    "value": "{spacing-4}",
+    "type": "spacing"
+  },
+  "pricing-gap-prices": {
+    "value": "{spacing-0}",
+    "type": "spacing"
+  },
+  "pricing-gap-prices-inline": {
+    "value": "{spacing-4}",
+    "type": "spacing"
+  },
+  "pricing-gap-current-price": {
+    "value": "{spacing-4}",
+    "type": "spacing"
+  },
+  "pricing-gap-former-price": {
+    "value": "{spacing-2}",
+    "type": "spacing"
+  },
+  "pricing-border-strike": {
+    "value": {
+      "width": "{border-width-1}",
+      "style": "solid",
+      "color": "{pricing-color-strike}"
+    },
+    "type": "border"
+  },
+  "pricing-color-strike": {
+    "value": "{color-text-dark.color-text-dark-tertiary}",
+    "type": "color"
+  },
+  "pricing-color-former-price": {
+    "value": "{color-text-dark.color-text-dark-tertiary}",
+    "type": "color"
+  },
+  "pricing-color-current-price": {
+    "value": "{color-text-dark.color-text-dark-primary}",
+    "type": "color"
+  },
+  "pricing-color-conditions": {
+    "value": "{color-text-dark.color-text-dark-secondary}",
+    "type": "color"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "notification-error-color-background": {
+    "value": "{color-error.color-error-25}",
+    "type": "color"
+  },
+  "notification-error-color-border": {
+    "value": "{color-error.color-error-50}",
+    "type": "color"
+  },
+  "notification-error-color-highlight": {
+    "value": "{color-error.color-error}",
+    "type": "color"
+  },
+  "notification-error-color-icon": {
+    "value": "{color-error.color-error}",
+    "type": "color"
+  },
+  "notification-success-color-background": {
+    "value": "{color-success.color-success-25}",
+    "type": "color"
+  },
+  "notification-success-color-border": {
+    "value": "{color-success.color-success-50}",
+    "type": "color"
+  },
+  "notification-success-color-highlight": {
+    "value": "{color-success.color-success}",
+    "type": "color"
+  },
+  "notification-success-color-icon": {
+    "value": "{color-success.color-success}",
+    "type": "color"
+  },
+  "notification-warning-color-background": {
+    "value": "{color-warning.color-warning-25}",
+    "type": "color"
+  },
+  "notification-warning-color-border": {
+    "value": "{color-warning.color-warning-50}",
+    "type": "color"
+  },
+  "notification-warning-color-highlight": {
+    "value": "{color-warning.color-warning}",
+    "type": "color"
+  },
+  "notification-warning-color-icon": {
+    "value": "{color-warning.color-warning}",
+    "type": "color"
+  },
+  "notification-info-color-background": {
+    "value": "{color-info.color-info-25}",
+    "type": "color"
+  },
+  "notification-info-color-border": {
+    "value": "{color-info.color-info-50}",
+    "type": "color"
+  },
+  "notification-info-color-highlight": {
+    "value": "{color-info.color-info}",
+    "type": "color"
+  },
+  "notification-info-color-icon": {
+    "value": "{color-info.color-info}",
+    "type": "color"
+  },
+  "notification-text-color-text": {
+    "value": "{color-text-dark.color-text-dark-secondary}",
+    "type": "color"
+  },
+  "notification-title-color-text": {
+    "value": "{color-text-dark.color-text-dark-primary}",
+    "type": "color"
+  },
+  "notification-base-title-font": {
+    "value": "{heading-base}",
+    "type": "typography"
+  },
+  "notification-base-text-font": {
+    "value": "{text-base}",
+    "type": "typography"
+  },
+  "notification-sm-title-font": {
+    "value": "{heading-sm}",
+    "type": "typography"
+  },
+  "notification-sm-text-font": {
+    "value": "{text-base}",
+    "type": "typography"
+  },
+  "notification-base-highlight-width": {
+    "value": "{size-6}",
+    "type": "sizing"
+  },
+  "notification-sm-highlight-width": {
+    "value": "{size-4}",
+    "type": "sizing"
+  },
+  "notification-base-body-gap": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "notification-sm-body-gap": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "notification-base-body-padding-x": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "notification-base-body-padding-y": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "notification-sm-body-padding-x": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "notification-sm-body-padding-y": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "notification-base-content-gap": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "notification-sm-content-gap": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "notification-base-title-text-gap-y": {
+    "value": "{spacing-2}",
+    "type": "spacing"
+  },
+  "notification-base-title-text-gap-x": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "notification-sm-title-text-gap-y": {
+    "value": "{spacing-0}",
+    "type": "spacing"
+  },
+  "notification-sm-title-text-gap-x": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "notification-box-shadow": {
+    "value": "{shadow-lg}",
+    "type": "boxShadow"
+  },
+  "notification-border-radius": {
+    "value": "{border-radius-base}",
+    "type": "borderRadius"
+  },
+  "notification-border-width": {
+    "value": "{border-width-1}",
+    "type": "borderWidth"
+  }
+}

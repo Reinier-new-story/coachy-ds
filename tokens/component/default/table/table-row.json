@@ -1,0 +1,10 @@
+{
+  "table-row-color-background-hover": {
+    "value": "{color-ui-50}",
+    "type": "color"
+  },
+  "table-row-expanded-color-background": {
+    "value": "{color-ui-25}",
+    "type": "color"
+  }
+}

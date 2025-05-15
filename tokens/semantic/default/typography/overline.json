@@ -1,0 +1,72 @@
+{
+  "overline-xs": {
+    "value": {
+      "fontFamily": "{font-family-default}",
+      "fontWeight": "{font-weight-regular}",
+      "lineHeight": "{font-leading-none}",
+      "fontSize": "{font-size-xs}",
+      "letterSpacing": "{font-tracking-wider}"
+    },
+    "type": "typography"
+  },
+  "overline-sm": {
+    "value": {
+      "fontFamily": "{font-family-default}",
+      "fontWeight": "{font-weight-regular}",
+      "lineHeight": "{font-leading-none}",
+      "fontSize": "{font-size-sm}",
+      "letterSpacing": "{font-tracking-wider}"
+    },
+    "type": "typography"
+  },
+  "overline-base": {
+    "value": {
+      "fontFamily": "{font-family-default}",
+      "fontWeight": "{font-weight-regular}",
+      "lineHeight": "{font-leading-none}",
+      "fontSize": "{font-size-base}",
+      "letterSpacing": "{font-tracking-wider}"
+    },
+    "type": "typography"
+  },
+  "overline-lg": {
+    "value": {
+      "fontFamily": "{font-family-default}",
+      "fontWeight": "{font-weight-regular}",
+      "lineHeight": "{font-leading-none}",
+      "fontSize": "{font-size-lg}",
+      "letterSpacing": "{font-tracking-wider}"
+    },
+    "type": "typography"
+  },
+  "overline-xl": {
+    "value": {
+      "fontFamily": "{font-family-default}",
+      "fontWeight": "{font-weight-regular}",
+      "lineHeight": "{font-leading-none}",
+      "fontSize": "{font-size-xl}",
+      "letterSpacing": "{font-tracking-wider}"
+    },
+    "type": "typography"
+  },
+  "overline-2xl": {
+    "value": {
+      "fontFamily": "{font-family-default}",
+      "fontWeight": "{font-weight-regular}",
+      "lineHeight": "{font-leading-none}",
+      "fontSize": "{font-size-2xl}",
+      "letterSpacing": "{font-tracking-wider}"
+    },
+    "type": "typography"
+  },
+  "overline-3xl": {
+    "value": {
+      "fontFamily": "{font-family-default}",
+      "fontWeight": "{font-weight-regular}",
+      "lineHeight": "{font-leading-none}",
+      "fontSize": "{font-size-3xl}",
+      "letterSpacing": "{font-tracking-wider}"
+    },
+    "type": "typography"
+  }
+}

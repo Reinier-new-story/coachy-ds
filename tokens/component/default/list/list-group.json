@@ -1,0 +1,22 @@
+{
+  "list-group-gap": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "list-group-gap-tight": {
+    "value": "{spacing-4}",
+    "type": "spacing"
+  },
+  "list-group-gap-tighter": {
+    "value": "{spacing-2}",
+    "type": "spacing"
+  },
+  "list-group-gap-loose": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "list-group-gap-looser": {
+    "value": "{spacing-32}",
+    "type": "spacing"
+  }
+}

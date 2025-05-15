@@ -1,0 +1,14 @@
+{
+  "accordion-group-gap": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "accordion-group-gap-tight": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "accordion-group-gap-loose": {
+    "value": "{spacing-24}",
+    "type": "spacing"
+  }
+}

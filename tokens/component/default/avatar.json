@@ -1,0 +1,109 @@
+{
+  "avatar-border-radius-none": {
+    "value": "{border-radius-none}",
+    "type": "borderRadius"
+  },
+  "avatar-border-radius-full": {
+    "value": "{border-radius-full}",
+    "type": "borderRadius"
+  },
+  "avatar-sm-border-radius": {
+    "value": "{border-radius-sm}",
+    "type": "borderRadius"
+  },
+  "avatar-base-border-radius": {
+    "value": "{border-radius-base}",
+    "type": "borderRadius"
+  },
+  "avatar-lg-border-radius": {
+    "value": "{border-radius-lg}",
+    "type": "borderRadius"
+  },
+  "avatar-sm-width-min": {
+    "value": "{size-24}",
+    "type": "sizing"
+  },
+  "avatar-base-width-min": {
+    "value": "{size-40}",
+    "type": "sizing"
+  },
+  "avatar-lg-width-min": {
+    "value": "{size-64}",
+    "type": "sizing"
+  },
+  "avatar-sm-width-max": {
+    "value": "{size-24}",
+    "type": "sizing"
+  },
+  "avatar-base-width-max": {
+    "value": "{size-40}",
+    "type": "sizing"
+  },
+  "avatar-lg-width-max": {
+    "value": "{size-64}",
+    "type": "sizing"
+  },
+  "avatar-sm-height-min": {
+    "value": "{size-24}",
+    "type": "sizing"
+  },
+  "avatar-base-height-min": {
+    "value": "{size-40}",
+    "type": "sizing"
+  },
+  "avatar-lg-height-min": {
+    "value": "{size-64}",
+    "type": "sizing"
+  },
+  "avatar-sm-height-max": {
+    "value": "{size-24}",
+    "type": "sizing"
+  },
+  "avatar-base-height-max": {
+    "value": "{size-40}",
+    "type": "sizing"
+  },
+  "avatar-lg-height-max": {
+    "value": "{size-64}",
+    "type": "sizing"
+  },
+  "avatar-color-background": {
+    "value": "{color-primary.color-primary-100}",
+    "type": "color"
+  },
+  "avatar-color-text": {
+    "value": "{color-text-light.color-text-light-max}",
+    "type": "color"
+  },
+  "avatar-color-icon": {
+    "value": "{color-text-light.color-text-light-max}",
+    "type": "color"
+  },
+  "avatar-sm-font-initials": {
+    "value": {
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-bold}",
+      "lineHeight": "{font-leading-none}",
+      "fontSize": "{font-size-sm}"
+    },
+    "type": "typography"
+  },
+  "avatar-base-font-initials": {
+    "value": {
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-bold}",
+      "lineHeight": "{font-leading-none}",
+      "fontSize": "{font-size-lg}"
+    },
+    "type": "typography"
+  },
+  "avatar-lg-font-initials": {
+    "value": {
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-bold}",
+      "lineHeight": "{font-leading-none}",
+      "fontSize": "{font-size-3xl}"
+    },
+    "type": "typography"
+  }
+}

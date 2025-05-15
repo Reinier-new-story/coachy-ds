@@ -1,0 +1,34 @@
+{
+  "focus-ring-border-on-dark": {
+    "value": {
+      "width": "{border-width-2}",
+      "style": "solid",
+      "color": "{focus-ring-color-border-on-dark}"
+    },
+    "type": "border"
+  },
+  "focus-ring-border-on-light": {
+    "value": {
+      "width": "{border-width-2}",
+      "style": "solid",
+      "color": "{focus-ring-color-border-on-light}"
+    },
+    "type": "border"
+  },
+  "focus-ring-color-border-on-dark": {
+    "value": "{color-text-light.color-text-light-max}",
+    "type": "color"
+  },
+  "focus-ring-color-border-on-light": {
+    "value": "{color-text-dark.color-text-dark-max}",
+    "type": "color"
+  },
+  "focus-ring-border-radius": {
+    "value": "{border-radius-none}",
+    "type": "borderRadius"
+  },
+  "focus-ring-border-radius-full": {
+    "value": "{border-radius-full}",
+    "type": "borderRadius"
+  }
+}
