@@ -87,6 +87,8 @@
     "component/default/tooltip/tooltip-group",
     "component/default/tooltip/tooltip-trigger",
     "component/default/tooltip/tooltip",
+    "component/default/header",
+    "component/default/footer",
     "component/default/list"
   ]
 }

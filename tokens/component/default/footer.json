@@ -1,0 +1,34 @@
+{
+  "footer-padding-x": {
+    "value": "{spacing-32}",
+    "type": "spacing"
+  },
+  "footer-padding-y": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "footer-padding-x-mobile": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "footer-color-background": {
+    "value": "{base-color-white}",
+    "type": "color"
+  },
+  "footer-color-border": {
+    "value": "{color-ui-100}",
+    "type": "color"
+  },
+  "footer-border": {
+    "value": {
+      "color": "{header-color-border}",
+      "width": "{border-width-1}",
+      "style": "solid"
+    },
+    "type": "border"
+  },
+  "footer-gap": {
+    "value": "{spacing-20}",
+    "type": "spacing"
+  }
+}
