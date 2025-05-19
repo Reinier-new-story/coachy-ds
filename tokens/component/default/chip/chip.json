@@ -1,49 +1,45 @@
 {
-  "tag-base-padding-x": {
+  "chip-base-padding-x": {
     "value": "{spacing-12}",
     "type": "spacing"
   },
-  "tag-sm-padding-x": {
+  "chip-sm-padding-x": {
     "value": "{spacing-8}",
     "type": "spacing"
   },
-  "tag-base-padding-y": {
+  "chip-base-padding-y": {
     "value": "{spacing-6}",
     "type": "spacing"
   },
-  "tag-sm-padding-y": {
+  "chip-sm-padding-y": {
     "value": "{spacing-4}",
     "type": "spacing"
   },
-  "tag-border-radius": {
+  "chip-border-radius": {
     "value": "{border-radius-full}",
     "type": "borderRadius"
   },
-  "tag-color-background-error": {
-    "value": "{color-error.color-error-50}",
+  "chip-color-background": {
+    "value": "{color-primary.color-primary-25}",
     "type": "color"
   },
-  "tag-color-background-success": {
-    "value": "{color-success.color-success-50}",
+  "chip-color-background-hover": {
+    "value": "{color-primary.color-primary-50}",
     "type": "color"
   },
-  "tag-color-background-accent": {
-    "value": "{color-accent.color-accent-75}",
+  "chip-color-background-active": {
+    "value": "{color-primary.color-primary-75}",
     "type": "color"
   },
-  "tag-color-background-ui": {
-    "value": "{color-ui-75}",
-    "type": "color"
-  },
-  "tag-color-text": {
+  "chip-color-text": {
     "value": "{color-text-dark.color-text-dark-max}",
     "type": "color"
   },
-  "tag-color-text-accent": {
-    "value": "{color-accent.color-accent-175}",
+  "chip-color-icon": {
+    "value": "{color-text-dark.color-text-dark-max}",
     "type": "color"
   },
-  "tag-base-font": {
+  "chip-base-font": {
     "value": {
       "fontFamily": "{font-family-text}",
       "fontWeight": "{font-weight-semibold}",
@@ -54,7 +50,7 @@
     },
     "type": "typography"
   },
-  "tag-sm-font": {
+  "chip-sm-font": {
     "value": {
       "fontFamily": "{font-family-text}",
       "fontWeight": "{font-weight-semibold}",
@@ -65,7 +61,7 @@
     },
     "type": "typography"
   },
-  "tag-base-font-emphasis": {
+  "chip-base-font-emphasis": {
     "value": {
       "fontFamily": "{font-family-default}",
       "fontWeight": "{font-weight-semi-bold}",
@@ -76,7 +72,7 @@
     },
     "type": "typography"
   },
-  "tag-sm-font-emphasis": {
+  "chip-sm-font-emphasis": {
     "value": {
       "fontFamily": "{font-family-default}",
       "fontWeight": "{font-weight-semi-bold}",
@@ -86,5 +82,17 @@
       "textCase": "{font-textransform-uppercase}"
     },
     "type": "typography"
+  },
+  "chip-opacity-disabled": {
+    "value": "{opacity-disabled}",
+    "type": "opacity"
+  },
+  "chip-sm-gap": {
+    "value": "{spacing-4}",
+    "type": "spacing"
+  },
+  "chip-base-gap": {
+    "value": "{spacing-8}",
+    "type": "spacing"
   }
 }

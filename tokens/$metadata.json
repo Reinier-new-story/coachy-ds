@@ -89,6 +89,8 @@
     "component/default/tooltip/tooltip",
     "component/default/header",
     "component/default/footer",
+    "component/default/chip/chip",
+    "component/default/chip/chip-group",
     "component/default/list"
   ]
 }
