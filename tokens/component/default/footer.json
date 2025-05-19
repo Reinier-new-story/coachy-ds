@@ -1,22 +1,42 @@
 {
-  "footer-padding-x": {
+  "footer-control-padding-x": {
     "value": "{spacing-32}",
     "type": "spacing"
   },
-  "footer-padding-y": {
+  "footer-control-padding-y": {
+    "value": "{spacing-32}",
+    "type": "spacing"
+  },
+  "footer-footnote-padding-x": {
+    "value": "{spacing-32}",
+    "type": "spacing"
+  },
+  "footer-footnote-padding-y": {
     "value": "{spacing-16}",
     "type": "spacing"
   },
-  "footer-padding-x-mobile": {
+  "footer-footnote-padding-x-mobile": {
     "value": "{spacing-12}",
     "type": "spacing"
   },
-  "footer-color-background": {
+  "footer-control-padding-x-mobile": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "footer-control-padding-y-mobile": {
+    "value": "{spacing-24}",
+    "type": "spacing"
+  },
+  "footer-footnote-color-background": {
     "value": "{base-color-white}",
     "type": "color"
   },
-  "footer-color-border": {
+  "footer-footnote-color-border": {
     "value": "{color-ui-100}",
+    "type": "color"
+  },
+  "footer-control-color-background": {
+    "value": "linear-gradient(180deg, rgba({color-ui-50},0.2) 0%, rgba({color-ui-50}, 1) 100%)",
     "type": "color"
   },
   "footer-border": {
@@ -29,6 +49,10 @@
   },
   "footer-gap": {
     "value": "{spacing-20}",
+    "type": "spacing"
+  },
+  "footer-gap-mobile": {
+    "value": "{spacing-0}",
     "type": "spacing"
   }
 }

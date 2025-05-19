@@ -1,0 +1,58 @@
+{
+  "prompt-input-padding": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "prompt-input-border-radius": {
+    "value": "{border-radius-2xl}",
+    "type": "borderRadius"
+  },
+  "prompt-input-background-color": {
+    "value": "{base-color-white}",
+    "type": "color"
+  },
+  "prompt-input-border-color": {
+    "value": "{color-ui-100}",
+    "type": "color"
+  },
+  "prompt-input-border-color-hover": {
+    "value": "{color-ui-125}",
+    "type": "color"
+  },
+  "prompt-input-border-color-active": {
+    "value": "{color-ui-175}",
+    "type": "color"
+  },
+  "prompt-input-border": {
+    "value": {
+      "width": "{border-width-1}",
+      "style": "solid",
+      "color": "{prompt-input-border-color}"
+    },
+    "type": "border"
+  },
+  "prompt-input-border-hover": {
+    "value": {
+      "width": "{border-width-1}",
+      "style": "solid",
+      "color": "{prompt-input-border-color-hover}"
+    },
+    "type": "border"
+  },
+  "prompt-input-border-active": {
+    "value": {
+      "width": "{border-width-1}",
+      "style": "solid",
+      "color": "{prompt-input-border-color-active}"
+    },
+    "type": "border"
+  },
+  "prompt-input-opacity-disabled": {
+    "value": "{opacity-disabled}",
+    "type": "opacity"
+  },
+  "prompt-input-width-max": {
+    "value": "{section-sm-width-max}",
+    "type": "sizing"
+  }
+}

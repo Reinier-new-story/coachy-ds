@@ -91,6 +91,7 @@
     "component/default/footer",
     "component/default/chip/chip",
     "component/default/chip/chip-group",
+    "component/default/prompt-input",
     "component/default/list"
   ]
 }
