@@ -1,0 +1,38 @@
+{
+  "qa-padding": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "qa-color-background-question": {
+    "value": "{color-primary.color-primary-25}",
+    "type": "color"
+  },
+  "qa-color-background-answer": {
+    "value": "{base-color-white}",
+    "type": "color"
+  },
+  "qa-border-answer": {
+    "value": {
+      "width": "{border-width-1}",
+      "style": "solid",
+      "color": "{qa-color-border-answer}"
+    },
+    "type": "border"
+  },
+  "qa-color-border-answer": {
+    "value": "{color-ui-100}",
+    "type": "color"
+  },
+  "qa-gap": {
+    "value": "spacing-16",
+    "type": "spacing"
+  },
+  "qa-controls-gap": {
+    "value": "spacing-4",
+    "type": "spacing"
+  },
+  "qa-border-radius": {
+    "value": "{border-radius-xl}",
+    "type": "borderRadius"
+  }
+}

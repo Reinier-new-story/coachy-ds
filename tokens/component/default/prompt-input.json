@@ -7,19 +7,19 @@
     "value": "{border-radius-2xl}",
     "type": "borderRadius"
   },
-  "prompt-input-background-color": {
+  "prompt-input-color-background": {
     "value": "{base-color-white}",
     "type": "color"
   },
-  "prompt-input-border-color": {
+  "prompt-input-color-border": {
     "value": "{color-ui-100}",
     "type": "color"
   },
-  "prompt-input-border-color-hover": {
+  "prompt-input-color-border-hover": {
     "value": "{color-ui-125}",
     "type": "color"
   },
-  "prompt-input-border-color-active": {
+  "prompt-input-color-border-active": {
     "value": "{color-ui-175}",
     "type": "color"
   },
@@ -27,7 +27,7 @@
     "value": {
       "width": "{border-width-1}",
       "style": "solid",
-      "color": "{prompt-input-border-color}"
+      "color": "{prompt-input-color-border}"
     },
     "type": "border"
   },
@@ -35,7 +35,7 @@
     "value": {
       "width": "{border-width-1}",
       "style": "solid",
-      "color": "{prompt-input-border-color-hover}"
+      "color": "{prompt-input-color-border-hover}"
     },
     "type": "border"
   },
@@ -43,7 +43,7 @@
     "value": {
       "width": "{border-width-1}",
       "style": "solid",
-      "color": "{prompt-input-border-color-active}"
+      "color": "{prompt-input-color-border-active}"
     },
     "type": "border"
   },

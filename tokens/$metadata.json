@@ -93,6 +93,7 @@
     "component/default/chip/chip-group",
     "component/default/prompt-input",
     "component/default/select-card",
+    "component/default/qa",
     "component/default/list"
   ]
 }
