@@ -1,0 +1,18 @@
+{
+  "select-card-color-background": {
+    "value": "{color-primary.color-primary-25}",
+    "type": "color"
+  },
+  "select-card-color-background-hover": {
+    "value": "{color-primary.color-primary-50}",
+    "type": "color"
+  },
+  "select-card-padding": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "select-card-border-radius": {
+    "value": "{border-radius-xl}",
+    "type": "borderRadius"
+  }
+}

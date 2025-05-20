@@ -36,7 +36,7 @@
     "type": "color"
   },
   "footer-control-color-background": {
-    "value": "linear-gradient(180deg, rgba({color-ui-50},0.2) 0%, rgba({color-ui-50}, 1) 100%)",
+    "value": "linear-gradient(180deg, rgba({color-ui-25},0.2) 0%, rgba({color-ui-25}, 1) 100%)",
     "type": "color"
   },
   "footer-border": {

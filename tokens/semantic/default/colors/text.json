@@ -91,7 +91,7 @@
   },
   "color-text-accent": {
     "color-text-accent": {
-      "value": "{deep-sky.deep-sky-125}",
+      "value": "{color-primary.color-primary}",
       "type": "color"
     }
   }
