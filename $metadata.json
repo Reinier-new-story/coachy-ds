@@ -26,6 +26,8 @@
     "semantic/default/typography/display",
     "semantic/default/typography/heading",
     "semantic/default/typography/text",
+    "semantic/default/typography/overline",
+    "semantic/default/typography/rich-text",
     "component/default/accordion/accordion-group",
     "component/default/accordion/accordion-header",
     "component/default/accordion/accordion",
@@ -84,6 +86,14 @@
     "component/default/tag/tag",
     "component/default/tooltip/tooltip-group",
     "component/default/tooltip/tooltip-trigger",
-    "component/default/tooltip/tooltip"
+    "component/default/tooltip/tooltip",
+    "component/default/header",
+    "component/default/footer",
+    "component/default/chip/chip",
+    "component/default/chip/chip-group",
+    "component/default/prompt-input",
+    "component/default/select-card",
+    "component/default/qa",
+    "component/default/list"
   ]
 }

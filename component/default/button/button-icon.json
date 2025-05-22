@@ -18,5 +18,9 @@
   "button-icon-sm-size": {
     "value": "{size-40}",
     "type": "sizing"
+  },
+  "button-icon-border-radius-rounded": {
+    "value": "{border-radius-xl}",
+    "type": "borderRadius"
   }
 }

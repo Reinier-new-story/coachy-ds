@@ -1,14 +1,14 @@
 {
   "font-family-display": {
-    "value": "{font-family-bowlby}",
+    "value": "{font-family-adelle}",
     "type": "fontFamilies"
   },
   "font-family-heading": {
-    "value": "{font-family-nunito}",
+    "value": "{font-family-adelle}",
     "type": "fontFamilies"
   },
   "font-family-default": {
-    "value": "{font-family-inter}",
+    "value": "{font-family-adelle}",
     "type": "fontFamilies"
   },
   "font-family-button": {
@@ -60,7 +60,7 @@
     "type": "fontFamilies"
   },
   "font-family-text": {
-    "value": "{font-family-inter}",
+    "value": "{font-family-adelle}",
     "type": "fontFamilies"
   }
 }

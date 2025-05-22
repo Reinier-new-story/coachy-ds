@@ -4,7 +4,7 @@
     "type": "color"
   },
   "button-secondary-solid-color-background-hover": {
-    "value": "{color-secondary.color-secondary-125}",
+    "value": "{color-secondary.color-secondary-50}",
     "type": "color"
   },
   "button-secondary-solid-color-background-active": {

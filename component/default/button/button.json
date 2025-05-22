@@ -6,7 +6,7 @@
   "button-base-font": {
     "value": {
       "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-semi-bold}",
+      "fontWeight": "{font-weight-regular}",
       "fontSize": "{font-size-lg}",
       "lineHeight": "{font-leading-none}"
     },
@@ -15,7 +15,7 @@
   "button-sm-font": {
     "value": {
       "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-semi-bold}",
+      "fontWeight": "{font-weight-regular}",
       "fontSize": "{font-size-base}",
       "lineHeight": "{font-leading-none}"
     },
@@ -54,7 +54,7 @@
     "type": "spacing"
   },
   "button-border-radius": {
-    "value": "{border-radius-base}",
+    "value": "{avatar-border-radius-full}",
     "type": "borderRadius"
   },
   "button-border-width": {

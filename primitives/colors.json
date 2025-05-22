@@ -1,31 +1,91 @@
 {
-  "deep-sky": {
-    "deep-sky-25": {
-      "value": "#F2F4FF",
+  "pink-neon": {
+    "pink-neon-25": {
+      "value": "#FFE6FE",
       "type": "color"
     },
-    "deep-sky-50": {
-      "value": "#D8DFFE",
+    "pink-neon-50": {
+      "value": "#FF99FC",
       "type": "color"
     },
-    "deep-sky-75": {
-      "value": "#A7BAFE",
+    "pink-neon-75": {
+      "value": "#FF4DFD",
       "type": "color"
     },
-    "deep-sky-100": {
-      "value": "#0D6EFD",
+    "pink-neon-100": {
+      "value": "#F0F",
       "type": "color"
     },
-    "deep-sky-125": {
-      "value": "#0C63E3",
+    "pink-neon-125": {
+      "value": "#B002AE",
       "type": "color"
     },
-    "deep-sky-150": {
-      "value": "#0A53BF",
+    "pink-neon-150": {
+      "value": "#640361",
       "type": "color"
     },
-    "deep-sky-175": {
-      "value": "#073B87",
+    "pink-neon-175": {
+      "value": "#190118",
+      "type": "color"
+    }
+  },
+  "pink-dark": {
+    "pink-dark-25": {
+      "value": "#CC00C6",
+      "type": "color"
+    },
+    "pink-dark-50": {
+      "value": "#80007E",
+      "type": "color"
+    },
+    "pink-dark-75": {
+      "value": "#303",
+      "type": "color"
+    },
+    "pink-dark-100": {
+      "value": "#280028",
+      "type": "color"
+    },
+    "pink-dark-125": {
+      "value": "#1C001C",
+      "type": "color"
+    },
+    "pink-dark-150": {
+      "value": "#101",
+      "type": "color"
+    },
+    "pink-dark-175": {
+      "value": "#050005",
+      "type": "color"
+    }
+  },
+  "banana": {
+    "banana-25": {
+      "value": "#FFFAE6",
+      "type": "color"
+    },
+    "banana-50": {
+      "value": "#FFEC99",
+      "type": "color"
+    },
+    "banana-75": {
+      "value": "#FFE04D",
+      "type": "color"
+    },
+    "banana-100": {
+      "value": "#FFD600",
+      "type": "color"
+    },
+    "banana-125": {
+      "value": "#B09602",
+      "type": "color"
+    },
+    "banana-150": {
+      "value": "#645603",
+      "type": "color"
+    },
+    "banana-175": {
+      "value": "#191601",
       "type": "color"
     }
   },

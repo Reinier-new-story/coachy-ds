@@ -45,8 +45,8 @@
   },
   "tag-base-font": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-semi-bold}",
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-semibold}",
       "fontSize": "{font-size-sm}",
       "lineHeight": "{font-leading-none}",
       "letterSpacing": "{font-tracking-wide}",
@@ -56,8 +56,8 @@
   },
   "tag-sm-font": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-semi-bold}",
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-semibold}",
       "fontSize": "{font-size-xs}",
       "lineHeight": "{font-leading-none}",
       "letterSpacing": "{font-tracking-wider}",

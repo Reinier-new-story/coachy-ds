@@ -174,5 +174,9 @@
   "font-textransform-capitalize": {
     "value": "capitalize",
     "type": "textCase"
+  },
+  "font-family-adelle": {
+    "value": "Adelle Sans",
+    "type": "fontFamilies"
   }
 }
